@@ -1,6 +1,6 @@
 # Home Sales Query using SparkSQL
 
-In this challenge, I used SparkSQL to determine key metrics about home sales data. Using Spark, I was able to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
+For this challenge, I used SparkSQL to determine key metrics about home sales data. Using Spark, I could create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
 
 ## Overview
