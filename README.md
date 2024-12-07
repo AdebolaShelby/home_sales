@@ -23,17 +23,17 @@ For this challenge, I used SparkSQL to determine key metrics about home sales da
 
         * What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
-* Cache your temporary table home_sales.
+* Cache the temporary table home_sales.
 
-* Check if your temporary table is cached.
+* Verify that the temporary table is cached.
 
-* Using the cached data, run the last query that calculates the average price of a home per "view" rating having an average home price greater than or equal to $350,000. Determine the runtime and compare it to uncached runtime.
+* Using the cached data, run the last query that calculates the average price of a home per "view" rating having an average home price greater than or equal to $350,000. Determine the runtime and compare it to the uncached runtime.
 
 * Partition by the "date_built" field on the formatted parquet home sales data.
 
 * Create a temporary table for the parquet data.
 
-* Run the last query that calculates the average price of a home per "view" rating having an average home price greater than or equal to $350,000. Determine the runtime and compare it to uncached runtime.
+* Run the last query that calculates the average price of a home per "view" rating having an average home price greater than or equal to $350,000. Determine the runtime and compare it to the uncached runtime.
 
 * Uncache the home_sales temporary table.
 
