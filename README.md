@@ -1,13 +1,13 @@
 # Home Sales Query using SparkSQL
 
-For this challenge, I used PySpark, and SparkSQL on Google Colab to determine key metrics about home sales data. Using Spark, I could create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
+For this project, I used PySpark, and SparkSQL on Google Colab to determine key metrics about home sales data. Using Spark, I could create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
 
 ## Overview
 
 * Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
 
-* Import the necessary PySpark SQL functions for this assignment.
+* Import the necessary PySpark SQL functions for this project.
 
 * Read the home_sales_revised.csv data in the starter code into a Spark DataFrame.
 
